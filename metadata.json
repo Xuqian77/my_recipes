@@ -1,0 +1,5 @@
+{
+  "name": "Chef's Table - 私家菜谱点餐系统",
+  "description": "一个为私家大厨设计的菜谱管理与客座点餐应用。支持记录食材、步骤、难度、口味及视频，并提供精美的点餐界面供客人使用。",
+  "requestFramePermissions": []
+}
