@@ -16,10 +16,10 @@
 ## 📸 应用预览
 
 ### 首页菜单
-[![页面首页效果](images/home.png)](https://github.com/Xuqian77/my_recipes/blob/main/src/images/home.png?raw=true)
+![页面首页效果](home.png)
 
 ### 菜品详情
-![菜谱信息](images/recipe.png)
+![菜谱信息](recipe.png)
 
 ## 🛠️ 技术实现
 
