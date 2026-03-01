@@ -138,7 +138,7 @@ export default function App() {
           <div className="w-16 h-16 bg-brand-accent rounded-full flex items-center justify-center text-white shadow-lg">
             <ChefHat size={32} />
           </div>
-          <h1 className="serif text-5xl font-medium tracking-tight">Chef's Table</h1>
+          <h1 className="serif text-5xl font-medium tracking-tight">Qian's Chef's Table</h1>
           <p className="text-brand-accent/70 serif italic text-xl">私家厨房 · 诚意款待</p>
         </motion.div>
       </header>
