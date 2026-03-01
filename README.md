@@ -16,15 +16,10 @@
 ## 📸 应用预览
 
 ### 首页菜单
-![首页预览](https://api.screenshotone.com/take?url=https%3A%2F%2Fais-dev-xhpro6z7il7tgq3vlow7nq-282901710355.us-east1.run.app&access_key=your_access_key&block_ads=true&block_cookie_banners=true&block_trackers=true&delay=5&full_page=true)
-*(注：由于预览环境限制，以上为动态生成的截图示例)*
-
-**实际效果图：**
-
-![首页效果图](https://r.jina.ai/i/9e0e5686007e497593c675f66100787e)
+<img src="https://r.jina.ai/i/9e0e5686007e497593c675f66100787e" width="600" alt="首页预览" />
 
 ### 菜品详情
-![详情效果图](https://r.jina.ai/i/97151121d45c484293f0b093340579e2)
+<img src="https://r.jina.ai/i/97151121d45c484293f0b093340579e2" width="600" alt="详情预览" />
 
 ## 🛠️ 技术实现
 
