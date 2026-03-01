@@ -16,10 +16,10 @@
 ## 📸 应用预览
 
 ### 首页菜单
-<img src="https://r.jina.ai/i/9e0e5686007e497593c675f66100787e" width="600" alt="首页预览" />
+![页面首页效果](images/home.png)
 
 ### 菜品详情
-<img src="https://r.jina.ai/i/97151121d45c484293f0b093340579e2" width="600" alt="详情预览" />
+![菜谱信息](images/recipe.png)
 
 ## 🛠️ 技术实现
 
