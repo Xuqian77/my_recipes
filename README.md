@@ -16,10 +16,10 @@
 ## 📸 应用预览
 
 ### 首页菜单
-![页面首页效果](home.png)
+![页面首页效果](images/home.png)
 
 ### 菜品详情
-![菜谱信息](recipe.png)
+![菜谱信息](images/recipe.png)
 
 ## 🛠️ 技术实现
 
